@@ -36,10 +36,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            <state relative-caret-position="234">
+              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
               <folding>
-                <marker date="1502774740000" expanded="true" signature="986:1171" ph="..." />
+                <marker date="1502779616000" expanded="true" signature="1036:1221" ph="..." />
               </folding>
             </state>
           </provider>
@@ -68,8 +68,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="374" />
-    <option name="y" value="27" />
+    <option name="x" value="485" />
+    <option name="y" value="302" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -201,15 +201,15 @@
       <workItem from="1502435912958" duration="2692000" />
       <workItem from="1502672195391" duration="2715000" />
       <workItem from="1502765703813" duration="2929000" />
-      <workItem from="1502776640819" duration="8000" />
+      <workItem from="1502776640819" duration="471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8344000" />
+    <option name="totallyTimeSpent" value="8807000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="374" y="27" width="1400" height="1000" extended-state="0" />
+    <frame x="485" y="302" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -263,7 +263,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1502774740000" expanded="true" signature="986:1171" ph="..." />
+            <marker date="1502779616000" expanded="true" signature="1036:1221" ph="..." />
           </folding>
         </state>
       </provider>
@@ -288,7 +288,7 @@
         <state relative-caret-position="135">
           <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
           <folding>
-            <marker date="1502774740000" expanded="true" signature="986:1171" ph="..." />
+            <marker date="1502779616000" expanded="true" signature="1036:1221" ph="..." />
           </folding>
         </state>
       </provider>
@@ -313,7 +313,7 @@
         <state relative-caret-position="210">
           <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding>
-            <marker date="1502774740000" expanded="true" signature="986:1171" ph="..." />
+            <marker date="1502779616000" expanded="true" signature="1036:1221" ph="..." />
           </folding>
         </state>
       </provider>
@@ -364,10 +364,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        <state relative-caret-position="234">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
           <folding>
-            <marker date="1502774740000" expanded="true" signature="986:1171" ph="..." />
+            <marker date="1502779616000" expanded="true" signature="1036:1221" ph="..." />
           </folding>
         </state>
       </provider>

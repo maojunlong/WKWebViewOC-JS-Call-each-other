@@ -17,12 +17,15 @@
 
 
             function doInvokeObjectC() {
-                alert("sss");
                 window.webkit.messageHandlers.closeMe.postMessage("s");
             }
 
             function ocInvokeJSFunction(title) {
                 document.getElementById("btnID").value = title;
+            }
+
+            function showAlert() {
+                alert("sss");
             }
 
         </script>
@@ -38,6 +41,8 @@
 
 
     <input class="testJS" id ="btnID" type="button" value="JS invoke objectC" onclick="doInvokeObjectC()">  </input>
+    <br />
+    <input type="button" value="add alert" onclick="showAlert()">  </input>
 
 
  <script src="https://code.jquery.com/jquery-{{JQUERY_VERSION}}.min.js"></script>
