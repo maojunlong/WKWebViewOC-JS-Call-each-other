@@ -11,8 +11,8 @@ Pod::Spec.new do |s|
   s.source       = { :git => 'git@github.com:maojunlong/WKWebViewOC-JS-Call-each-other.git', :tag => s.version.to_s }
   
   s.requires_arc = true
-  s.source_files = 'WKWebViewOC-JS-Call-each-other/**/*.{h,m}'
-  s.public_header_files = 'WKWebViewOC-JS-Call-each-other/**/*.{h}'
+  s.source_files = 'WKWebViewOC-JS-Call-each-other/calculates/*.{h,m}'
+  s.public_header_files = 'WKWebViewOC-JS-Call-each-other/calculates/*.{h}'
   
   s.frameworks = 'UIKit', 'CoreFoundation'
 
