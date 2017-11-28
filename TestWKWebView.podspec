@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'TestWKWebView'
+  s.name         = 'WKWebViewOC-JS-Call-each-other'
   s.summary      = 'test the web view and object-c invoked.'
   s.version      = '1.0.0'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
