@@ -6,13 +6,11 @@ Pod::Spec.new do |s|
   s.authors      = { 'user' => 'bob.mao' }
   s.social_media_url = 'https://www.baidu.com'
   s.homepage     = 'https://github.com/maojunlong'
-  s.platform     = :ios, '8.0'
-  s.ios.deployment_target = '8.0'
+  s.platform     = :ios, '10.0'
   s.source       = { :git => 'git@github.com:maojunlong/WKWebViewOC-JS-Call-each-other.git', :tag => s.version.to_s }
   
-  s.requires_arc = true
-  s.source_files = 'WKWebViewOC-JS-Call-each-other/calculates/*.{h,m}'
-  s.public_header_files = 'WKWebViewOC-JS-Call-each-other/calculates/*.{h}'
+  s.source_files = 'calculates/*.{h,m}'
+  s.public_header_files = 'calculates/*.{h}'
   
   s.frameworks = 'UIKit', 'CoreFoundation'
 
