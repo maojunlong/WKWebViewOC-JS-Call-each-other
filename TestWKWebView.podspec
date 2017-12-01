@@ -12,6 +12,4 @@ Pod::Spec.new do |s|
   s.source_files = 'calculates/*.{h,m}'
   s.public_header_files = 'calculates/*.{h}'
   
-  s.frameworks = 'UIKit', 'CoreFoundation'
-
 end
